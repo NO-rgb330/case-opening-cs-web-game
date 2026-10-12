@@ -1,1 +1,1 @@
-# case-opening-cs-web-game
+Counter-Strike based Case Opening Simulator
